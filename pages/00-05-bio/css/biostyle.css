@@ -141,6 +141,12 @@
 
 /*--BIO Content Body Text--*/
 
+.bio_content_text_version {
+	font-size: 9pt;
+	padding: 0px 0px 8px 0px;
+	color: #ccc;
+}
+
 .bio_content_text {
 	font-size: 10pt;
 	padding: 0px 0px 0px 0px;
