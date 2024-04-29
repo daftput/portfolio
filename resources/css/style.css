@@ -84,10 +84,10 @@ a {
 /*--Navi Image--*/
 
 #header_img img{
-	height: 150px;
+	height: 76px;
 	width: auto;
 	cursor: grab;
-	padding-bottom: 30px;
+	padding-bottom: 16px;
 }
 
 /*--Page Navi Hilight--*/
@@ -110,8 +110,7 @@ a {
 
 .navibox_inner {
 	height: 100%;
-	padding-top: 45px;
-	padding-bottom: 30px;
+	padding-top: 36px;
 	border: transparent 3px red;
 	position: fixed;
 }

@@ -1,0 +1,20 @@
+/*--Grid System Home--*/
+
+.contentbox_gallery_home {
+	padding: 40px 84px 50px 8px;
+}
+
+.image-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+	gap: 8px;
+	padding-top: 4px;
+  }
+  
+  .image-grid img {
+	width: 100%;
+	height: auto;
+	object-fit: cover;
+  }
+
+  
