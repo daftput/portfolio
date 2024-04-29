@@ -1,3 +1,24 @@
+/*--Page Title Header--*/
+
+.home_text_title_header {
+	font-size: 15pt;
+	padding: 45px 0px 0px 7px;
+	font-weight: 600;
+	opacity: 1;
+	cursor: default;
+	transition: all 0.5s ease;
+}
+
+.hover_top {
+	opacity: 1;
+	cursor: default;
+}
+
+.hover_top :hover{
+	opacity: 0.5;
+	transition: all opacity 0.25s;
+}
+
 /*--CONTENT BOX BIO--*/
 
 .contentbox_bio {
